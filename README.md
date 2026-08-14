@@ -39,12 +39,12 @@ Soy **Carlos Galindo**, desarrollador Fullstack recién titulado. Estoy enfocado
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarlosG9615&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosG9615&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-rosy-eight.vercel.app/api?username=CarlosG9615&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats-rosy-eight.vercel.app/api/top-langs/?username=CarlosG9615&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosG9615&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=CarlosG9615&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -57,7 +57,7 @@ Soy **Carlos Galindo**, desarrollador Fullstack recién titulado. Estoy enfocado
 ### 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosG9615&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=CarlosG9615&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 <br>
