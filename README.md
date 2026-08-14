@@ -10,9 +10,9 @@
 
 ### 👋 Sobre mí
 
-Soy **Carlos Galindo**, desarrollador Fullstack recién titulado. Estoy enfocado en seguir desarrollando mis habilidades de programación y en adaptarme a las tecnologías más actuales del ecosistema web. Me gusta entender bien lo que construyo, desde el backend hasta la interfaz final.
+Soy **Carlos Galindo**, desarrollador Fullstack recién titulado. Estoy buscando seguir desarrollando mis habilidades de programación y adaptarme a las tecnologías más actuales del ecosistema web. Busco desarrollar mi perfil profesional para ser más analítico y comprender mejor la estructuración de mis proyectos, lograr código limpio y 100% estable.
 
-- 🌱 Actualmente profundizando en frameworks modernos de frontend y backend
+- 🌱 Actualmente estoy profundizando en frameworks modernos de frontend y backend
 - 🎯 Buscando mi primera oportunidad profesional como desarrollador
 - 🤝 Abierto a colaborar en proyectos y a seguir aprendiendo en equipo
 - 📫 Puedes contactarme por LinkedIn (enlace abajo)
